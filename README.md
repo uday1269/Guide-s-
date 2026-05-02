@@ -4,7 +4,10 @@
 * A beginer can also understand this guide easely
 * By practicing with this guide , you can become pro git user .
 
--> chapter wise explenation.
--> Small exercises to practice 
--> problems that you may face in feature and solutions for that problems.
+-> chapter wise explenation.<br>
+-> Small exercises to practice <br>
+-> problems that you may face in feature and solutions for that problems.<br>
+
+## Git hub Guide ##
+
   
