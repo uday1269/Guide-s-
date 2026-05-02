@@ -6,7 +6,7 @@
 
 -> chapter wise explenation.<br>
 -> Small exercises to practice <br>
--> problems that you may face in feature and solutions for that problems.<br>
+-> Problems that you may face in future and solutions for that problems.<br>
 -> These is the chapter wise you can learn or you can refer for information.<br>
 
 <img width="1121" height="641" alt="image" src="https://github.com/user-attachments/assets/5bdd6dc5-8369-4e2e-9ad9-1392314bf4c9" />
